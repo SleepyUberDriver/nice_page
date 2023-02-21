@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Finaly it seems to work
 header_type: hero
 header_img: https://www.jarnvag.net/media/mod_zentools2/cache/images/D_109_Kolforsen2006MT-1dd0d42ee43944587084966c8414a576.jpg
-subtitle: Starter pack
+subtitle: This is about to be good
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
