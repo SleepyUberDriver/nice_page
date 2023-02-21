@@ -138,12 +138,12 @@ googlefonts:
  # - url : # 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap'
 
 # Theme and colors
-chulapa-skin    : sunset 
+chulapa-skin:  
   highlight     :  # default["default"]
-  skin          :  # Optional predefined skins
+  skin          : sunset # Optional predefined skins
   autothemer    : true # Bool: Use autotheming
   vars          :    
-    primary     : lightskyblue #default ["#007bff"] - Bootstrap blue
+    primary     : #lightskyblue #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
